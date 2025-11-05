@@ -43,7 +43,7 @@ The bot automates these actions daily for every account you configure.
 
 ```bash
 # 1. Clone and enter the project
-git clone https://github.com/Rambeboy/blockstreet-testnet-bot.git
+git clone https://github.com/ohmynofan/blockstreet-testnet-bot.git
 cd blockstreet-testnet-bot
 
 # 2. Prepare templates
