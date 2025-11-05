@@ -11,10 +11,10 @@ import (
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/ethclient"
-	"github.com/Rambeboy/blockstreet-testnet-bot/internal/config"
-	"github.com/Rambeboy/blockstreet-testnet-bot/internal/domain/model"
-	"github.com/Rambeboy/blockstreet-testnet-bot/internal/platform/logger"
-	"github.com/Rambeboy/blockstreet-testnet-bot/pkg/utils"
+	"github.com/ohmynofan/blockstreet-testnet-bot/internal/config"
+	"github.com/ohmynofan/blockstreet-testnet-bot/internal/domain/model"
+	"github.com/ohmynofan/blockstreet-testnet-bot/internal/platform/logger"
+	"github.com/ohmynofan/blockstreet-testnet-bot/pkg/utils"
 )
 
 type EthersClient struct {
