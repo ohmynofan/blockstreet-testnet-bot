@@ -48,13 +48,13 @@ func UpdateStatus(session model.Session, status string, remainingDelay time.Dura
 =============== Account %d ================
 Address       : %s
 
-%sDaily Login : %s
+Daily Login   : %s
 Daily Share   : %s
 Daily Invite  : %s - %s
 
 Earning       :
-- Today %s
-- Total %s
+- Today   %s
+- Total   %s
 - Balance %s
 
 Status   : %s
