@@ -1,0 +1,7 @@
+internal/adapters/chain/contracts/abi*
+accounts.json
+logs
+*.sum
+.DS_Store
+data/*
+.env
