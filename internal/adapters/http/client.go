@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Rambeboy/blockstreet-testnet-bot/internal/domain/model"
-	"github.com/Rambeboy/blockstreet-testnet-bot/internal/platform/logger"
-	"github.com/Rambeboy/blockstreet-testnet-bot/pkg/utils"
+	"github.com/ohmynofan/blockstreet-testnet-bot/internal/domain/model"
+	"github.com/ohmynofan/blockstreet-testnet-bot/internal/platform/logger"
+	"github.com/ohmynofan/blockstreet-testnet-bot/pkg/utils"
 )
 
 type HTTPError struct {
